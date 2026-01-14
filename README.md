@@ -2,8 +2,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Jack Coombs`
+- **CCID:** `1674871`
 
 ## References and Resources
 
